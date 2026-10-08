@@ -1,0 +1,20 @@
+# Build outputs
+uqllmclient
+uqllmserver
+*.o
+
+# Local and editor files
+.DS_Store
+.vscode/
+*.log
+
+# UQ submission metadata
+.checksum
+.course
+.interactionlog
+.manifest
+.repodump
+.revision
+.username
+subversion_log.txt
+
